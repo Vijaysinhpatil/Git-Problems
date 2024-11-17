@@ -5,3 +5,9 @@ for(let i=1;i<10;i++)
 console.log(fact);
 
 }
+
+const chekc = () =>{
+    console.log("Inside Git-learn Folder");
+    
+}
+chekc();
